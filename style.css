@@ -23,6 +23,7 @@ h1:hover{
     color: #00DFA2;
     text-shadow: 0 0 25px #00DFA2;
     transition: 0.5s;
+    curser: pointer
 
 }
 h2{
